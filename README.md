@@ -1,2 +1,2 @@
 # minish
-a verbose command line interpreter for *nix
+a verbose command line interpreter for bash
